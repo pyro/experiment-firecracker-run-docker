@@ -4,6 +4,8 @@ Experimental CLI that takes a Docker image url and runs it in a Firecracker VM
 
 Please do not use this in production for anything, _you're gonna have a bad time_.
 
+![Docker To Firecracker](https://github.com/pyro/experiment-firecracker-run-docker-image/raw/master/docker-to-firecracker.gif)
+
 ## How Does This Work?
 
 - Fetches an image using ContainerD
