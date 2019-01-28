@@ -1,4 +1,4 @@
-# experiment-firecracker-run-docker-image
+# [Experiment] Docker To Firecracker
 
 Experimental CLI that takes a Docker image url and runs it in a Firecracker VM
 
